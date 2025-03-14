@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/NGUYENTRONGDAT123/gitops-cert-level-2-examples.git
+    repoURL: https://github.com/nguyentrongdat123/gitops-cert-level-2-examples.git
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
 
